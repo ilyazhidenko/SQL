@@ -48,3 +48,5 @@ CREATE DATABASE sample;
 --разворачиваем содержимое дампа в новую базу данных sample
 
 mysql sample < "C:\Users\79167\Desktop\dump1"
+
+--готово)
