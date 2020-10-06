@@ -49,4 +49,4 @@ CREATE DATABASE sample;
 
 mysql sample < "C:\Users\79167\Desktop\dump1"
 
---готово)
+--конец
